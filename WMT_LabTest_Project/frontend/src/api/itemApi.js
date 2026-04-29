@@ -11,3 +11,5 @@ export const updateItem = (id, itemData) => API.put(`/items/${id}`, itemData);
 export const deleteItem = (id) => API.delete(`/items/${id}`);
 
 export default API;//# sourceMappingURL=itemApi.js.map  
+
+//# sourceURL=itemApi.js
